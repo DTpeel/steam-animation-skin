@@ -1,7 +1,7 @@
 # Steam-animation-skin
 Modify according to Threshold-Miku.
 
-#zh-cn
+# zh-cn
 Want to view the Chinese version? [Click here](http)
 想要查看中文版？[点我](http)
 
@@ -17,8 +17,10 @@ Open this GitHub repository [Threshold Miku](https://github.com/Jack-Myth/Thresh
    * Windows - C:\Program Files (x86)\Steam\skins or steam installation location\steam\skins
    * Mac - /Users/\<username\>/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/
    * Linux - ~/.steam/skins
+
  Then
  Replace the corresponding folder
    * ...\steam\skins\Threshold-Miku/graphics/JackMyth/
+
  After
  
