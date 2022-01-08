@@ -9,7 +9,9 @@ Want to view the English version? [Click here](https://github.com/DTpeel/steam-a
 
 ## 核心
 修改自 Threshold Skin
+
 你必须先下载 [JackMyth](https://github.com/Jack-Myth) 大佬的 GitHub 库作为核心
+
 打开此 GitHub 库 [Threshold Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master)
 
 ## 如何安装
