@@ -1,12 +1,12 @@
 # Steam-animation-skin
 Modify according to Threshold-Miku.
 
-# zh-cn
+## zh-cn
 Want to view the Chinese version? [Click here](http)
 
 想要查看中文版？[点我](http)
 
-# Core
+## Core
 From Threshold Skin
 You will need to first download [JackMyth's](https://github.com/Jack-Myth) GitHub repository as the core
 Open this GitHub repository [Threshold Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master)
@@ -24,4 +24,6 @@ Open this GitHub repository [Threshold Miku](https://github.com/Jack-Myth/Thresh
    * ...\steam\skins\Threshold-Miku/graphics/JackMyth/
 
  After
- 
+ Open Threshold Miku Customizer 2.exe
+   1.In the selection menu select "MainBG"
+   2.click "apply"
