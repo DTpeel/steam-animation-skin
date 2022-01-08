@@ -20,14 +20,15 @@ Want to view the English version? [Click here](https://github.com/DTpeel/steam-a
  >  * Mac - /Users/\<username\>/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/
  >  * Linux - ~/.steam/skins
 
- Then
- Replace the corresponding folder
+ 之后
+ 替换相应的文件夹
    * ...\steam\skins\Threshold-Miku/graphics/JackMyth/
 
- After
- Open Threshold Miku Customizer 2.exe
-   1. In the selection menu select "MainBG"
-   2. click "apply"
+ 最后
+ 打开 Threshold Miku Customizer 2.exe
+   1. 在下滑菜单选择 "MainBG"
+   2. 点击新背景，选择相应的图片
+   3. 点击 "应用"
 
-# Effect show
+# 效果展示
  ![]()
