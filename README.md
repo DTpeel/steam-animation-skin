@@ -3,6 +3,7 @@ Modify according to Threshold-Miku.
 
 # zh-cn
 Want to view the Chinese version? [Click here](http)
+
 想要查看中文版？[点我](http)
 
 # Core
