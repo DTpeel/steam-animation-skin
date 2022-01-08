@@ -3,20 +3,20 @@
 **图片均来自 pixiv**
 
 ## zh-cn
-Want to view the Chinese version? [Click here](http)
+Want to view the English version? [Click here](http)
 
-想要查看中文版？[点我](http)
+想要查看英文版？[点我](http)
 
-## Core
-From Threshold Skin
-You will need to first download [JackMyth's](https://github.com/Jack-Myth) GitHub repository as the core
-Open this GitHub repository [Threshold Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master)
+## 核心
+修改自 Threshold Skin
+你必须先下载 [JackMyth](https://github.com/Jack-Myth) 大佬的 GitHub 库作为核心
+打开此 GitHub 库 [Threshold Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master)
 
-## How to Install
- Download [Threshold Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master) skin,extract the zip file,then Run Install.cmd, it will automatically install to your steam.  
- Or  
- copy the folder to:
-   * Windows - C:\Program Files (x86)\Steam\skins or steam installation location\steam\skins
+## 如何安装
+ > 下载 [Threshold Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master) 皮肤,解压压缩包,然后运行 Install.cmd, 它将自动安装到你的 steam.  
+ 或者  
+ 复制文件到:
+   * Windows - C:\Program Files (x86)\Steam\skins or 你的steam安装路径\steam\skins
    * Mac - /Users/\<username\>/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/
    * Linux - ~/.steam/skins
 
