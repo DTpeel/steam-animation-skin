@@ -1,5 +1,6 @@
 # Steam-animation-skin
 Modify according to Threshold-Miku.
+**The images used are from pixiv**
 
 ## zh-cn
 Want to view the Chinese version? [Click here](http)
