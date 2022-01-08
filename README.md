@@ -25,5 +25,5 @@ Open this GitHub repository [Threshold Miku](https://github.com/Jack-Myth/Thresh
 
  After
  Open Threshold Miku Customizer 2.exe
-   1.In the selection menu select "MainBG"
-   2.click "apply"
+   1. In the selection menu select "MainBG"
+   2. click "apply"
