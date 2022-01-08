@@ -28,3 +28,6 @@ Open this GitHub repository [Threshold Miku](https://github.com/Jack-Myth/Thresh
  Open Threshold Miku Customizer 2.exe
    1. In the selection menu select "MainBG"
    2. click "apply"
+
+
+<![蓝1](https://markdown.com.cn/images/blue.jpg),![绿2](https://markdown.com.cn/images/green.jpg),![红3](https://markdown.com.cn.jpg)>
