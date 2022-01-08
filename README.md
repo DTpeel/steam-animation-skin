@@ -3,9 +3,9 @@ Modify according to Threshold-Miku.
 **The images used are from pixiv**
 
 ## zh-cn
-Want to view the Chinese version? [Click here](https://github.com/DTpeel/steam-animation-skin/blob/zh/README.md)
+Want to view the Chinese version? [Click here](https://github.com/DTpeel/steam-animation-skin/tree/zh)
 
-想要查看中文版？[点我](https://github.com/DTpeel/steam-animation-skin/blob/zh/README.md)
+想要查看中文版？[点我](https://github.com/DTpeel/steam-animation-skin/tree/zh)
 
 ## Core
 From Threshold Skin
